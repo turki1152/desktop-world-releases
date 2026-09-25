@@ -6,8 +6,12 @@
 
 **A tiny pixel world that lives on your desktop.**
 
-[![Download for Windows](https://img.shields.io/github/v/release/turki1152/desktop-world-releases?label=Download&style=for-the-badge&color=6c5ce7)](https://github.com/turki1152/desktop-world-releases/releases/latest)
-[![Website](https://img.shields.io/badge/website-desktop--world.online-6c5ce7?style=for-the-badge)](https://desktop-world.online)
+[![Download Latest Release](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-2ea44f?style=for-the-badge&labelColor=1a1a1a)](https://github.com/turki1152/desktop-world-releases/releases/latest)
+
+[![version](https://img.shields.io/github/v/release/turki1152/desktop-world-releases?label=version&style=for-the-badge&labelColor=1a1a1a&color=2f6fed)](https://github.com/turki1152/desktop-world-releases/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/turki1152/desktop-world-releases/total?label=downloads&style=for-the-badge&labelColor=1a1a1a&color=2ea44f)](https://github.com/turki1152/desktop-world-releases/releases/latest)
+[![platform](https://img.shields.io/badge/platform-Windows-2f6fed?style=for-the-badge&labelColor=1a1a1a)](https://github.com/turki1152/desktop-world-releases/releases/latest)
+[![install](https://img.shields.io/badge/install-Setup.exe-e05d8c?style=for-the-badge&labelColor=1a1a1a)](https://github.com/turki1152/desktop-world-releases/releases/latest)
 
 </div>
 
@@ -45,17 +49,6 @@ Part companion, part game, part mirror of your day. Desktop World is a free app 
 ## Download
 
 Grab the latest installer from the [**Releases**](https://github.com/turki1152/desktop-world-releases/releases/latest) page. Windows 10 & 11, free.
-
-<div align="center">
-
-[![Download Latest Release](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-2ea44f?style=for-the-badge&labelColor=1a1a1a)](https://github.com/turki1152/desktop-world-releases/releases/latest)
-
-[![version](https://img.shields.io/github/v/release/turki1152/desktop-world-releases?label=version&style=for-the-badge&labelColor=1a1a1a&color=2f6fed)](https://github.com/turki1152/desktop-world-releases/releases/latest)
-[![downloads](https://img.shields.io/github/downloads/turki1152/desktop-world-releases/total?label=downloads&style=for-the-badge&labelColor=1a1a1a&color=2ea44f)](https://github.com/turki1152/desktop-world-releases/releases/latest)
-[![platform](https://img.shields.io/badge/platform-Windows-2f6fed?style=for-the-badge&labelColor=1a1a1a)](https://github.com/turki1152/desktop-world-releases/releases/latest)
-[![install](https://img.shields.io/badge/install-Setup.exe-e05d8c?style=for-the-badge&labelColor=1a1a1a)](https://github.com/turki1152/desktop-world-releases/releases/latest)
-
-</div>
 
 ## Links
 
